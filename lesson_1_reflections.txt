@@ -16,3 +16,5 @@ by writing the gitlog and git diff followed by two commits id and i don't have t
 
 Now that you have your workspace set up, what do you want to try using Git for?
 to explore projects on GitHub
+
+add new udacity lesson
