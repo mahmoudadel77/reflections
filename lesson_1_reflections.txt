@@ -18,3 +18,6 @@ Now that you have your workspace set up, what do you want to try using Git for?
 to explore projects on GitHub
 
 add new udacity lesson
+
+How do the diagrams help you visualize the branch structure?
+by showing every commit and it's parnt till it ends to a commit with no parent
